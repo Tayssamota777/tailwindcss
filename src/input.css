@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* css customizado */
+
+.meu-bg{
+    background-color: rgb(2, 2, 2);
+    color: fuchsia;
+}
